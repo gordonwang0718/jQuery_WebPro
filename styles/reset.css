@@ -1,0 +1,6 @@
+/*首先编写 reset.css, 该样式表主要用来编写全局的样式*/
+
+body, h1, h2, h3, h4, h5, h6, h4, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td {
+	margin: 0;
+	padding: 0;
+}
